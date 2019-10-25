@@ -1,2 +1,6 @@
 # Big_data_platform_lectures
-This is a place where I upload all my files when teaching the BDP_lectures
+
+### 假期闭关一周做了一点点东西，之前上课一直按照厦门大学林子雨老师的教程带领大家做的Hadoop平台搭建，这次因为出版社需要把虚拟机的安装软件改成了用Oracle VM Virtual Box来做，其实只是换了个壳子而已，Virtual Box相对于Vmare 更加轻量级一些。虚拟机、Xshell和Xftp的安装和配置教程我都尽量详细地做出，因为考虑到自己的学生可能连Linux命令都不熟悉，所以感觉这几个教程很适合初次接触大数据平台的小白来看。
+### 关于Hadoop单节点故障的教程，我认为是搭建Hadoop HA框架来预防单节点突然崩溃的问题，所以查了几天资料后，开始着手搭建，并尝试记录下来整个搭建过程。我在搭建过程中遇到最多的问题就是zookeeper的配置，踩了很多坑，不过最后神奇地成功了。。
+### 当时凌晨五点，我还兴高采烈地发截图打扰正在休假的师父。
+### 总之关于HA搭建教程，读者还是要带有批判性的眼光去看（毕竟我虽然人美心善但还是有点不靠谱的）
